@@ -1,2 +1,2 @@
 # CsaladiKassza
-We had jointly wrote this program at the school in a own project.
+You can upload your expenses and display them in a chart.  
